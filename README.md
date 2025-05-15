@@ -1,46 +1,69 @@
-# 🛡️ Jesse Black — Cybersecurity Enthusiast & Future Pentester
+# 👨‍💻 Jesse Black – Web Developer & Pentester
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
-![OSCP Badge](https://img.shields.io/badge/OSCP-In_Progress-orange)
-
-## 👋 About Me
-
-Hi, I’m **Jesse Black**, a passionate **student** and aspiring **penetration tester** diving deep into the world of cybersecurity.
-
-🔐 I love exploring:
-- Network and web application vulnerabilities  
-- Wireless attacks (Evil Twin, Deauth, MITM)  
-- CTFs, HackTheBox, TryHackMe  
-- Tools like Wireshark, Burp Suite, and Metasploit  
-
-## ⚒️ Tools & Technologies
-
-| Offensive | Defensive | Scripting |
-|----------|------------|-----------|
-| Nmap, Wireshark | Fail2ban, iptables | Python, Bash |
-| Burp Suite, Hydra | OSINT, SIEM (basic) | Powershell |
-| Metasploit, Aircrack-ng | UFW, ClamAV | SQL |
-
-## 📈 Currently Working On
-- Building my own **Kali Linux pentest lab**
-- Learning **web exploitation** (XSS, SQLi, IDOR)
-- Completing rooms on **TryHackMe** and **HackTheBox**
-
-## 🧠 Goals for 2025
-- 🏅 Earn **OSCP**
-- 🧰 Contribute to open source security tools
-- 💼 Land a junior pentesting role or internship
-
-## 📫 Reach Me
-- ✉️ Email: `your.email@example.com`
-- 💬 Discord: `YourDiscord#0000`
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-
-## 🎯 TryHackMe Stats
-
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/yourTHMusername.png)
+Hey there! I'm Jesse Black – a passionate **Web Developer** with a growing interest in **Cybersecurity & Ethical Hacking**. I love building sleek, responsive websites and diving into the world of penetration testing to better understand and secure the web.
 
 ---
 
-> "Security is not a product, but a process." – Bruce Schneier
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+- HTML, CSS, JavaScript
+- React.js, Tailwind CSS
+- Responsive Design, Accessibility (WCAG)
+
+### 🧠 Backend
+- Node.js, Express.js
+- Python (Flask / FastAPI)
+- RESTful APIs, MongoDB
+
+### 🔐 Pentesting Tools
+- Burp Suite
+- Nmap
+- Wireshark
+- OWASP ZAP
+- Linux (Kali), Metasploit (Exploring)
+
+---
+
+## 📁 Projects
+
+### 🌐 Web Development
+- **Portfolio Site** – A sleek, mobile-first site showcasing my work (React + Tailwind).
+- **Task Manager App** – Full-stack CRUD app using Node.js & MongoDB.
+- **Weather Dashboard** – Consumes external API to show real-time weather data.
+
+### 🛡️ Cybersecurity / Pentesting Practice
+- **VulnHub & TryHackMe Boxes** – Walkthroughs and notes [coming soon!]
+- **Basic Recon Script (Python)** – Automates target info gathering (whois, nslookup, nmap).
+- **Web App Security Lab** – My playground for testing OWASP Top 10 vulnerabilities.
+
+---
+
+## 📚 Learning
+
+- Web App Penetration Testing (OWASP Top 10)
+- Ethical Hacking (via TryHackMe & Hack The Box)
+- Advanced JavaScript Patterns
+- Secure Coding Best Practices
+
+---
+
+## 🧩 Goals for 2025
+
+- Build & deploy a secure web app from scratch
+- Earn **CompTIA Security+** or **eJPT** certification
+- Contribute to open-source pentesting tools
+- Learn Rust or Go for low-level web tooling
+
+---
+
+## 📬 Let's Connect!
+
+- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- LinkedIn: [linkedin.com/in/jesseblack](https://linkedin.com/in/jesseblack)
+- GitHub: [@yourgithub](https://github.com/yourgithub)
+- Blog (Coming Soon): Real-world writeups & dev stories
+
+---
+
+_Always building, always breaking (ethically)._ 🔓✨
