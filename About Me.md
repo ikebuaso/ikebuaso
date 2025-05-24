@@ -29,7 +29,7 @@ Hey there! I'm Jesse Black – a passionate **Web Developer** with a growing int
 
 ### 🌐 Web Development
 - **Portfolio Site** – A sleek, mobile-first site showcasing my work (React + Tailwind).
-- **Task Manager App** – Full-stack CRUD app using Node.js & MongoDB.
+- **Betslip Converter** – For converting bets code for another platform (React + Tailwind).
 - **Weather Dashboard** – Consumes external API to show real-time weather data.
 
 ### 🛡️ Cybersecurity / Pentesting Practice
@@ -61,7 +61,7 @@ Hey there! I'm Jesse Black – a passionate **Web Developer** with a growing int
 
 - Portfolio: [yourwebsite.com](https://yourwebsite.com)
 - LinkedIn: [linkedin.com/in/jesseblack](https://linkedin.com/in/jesseblack)
-- GitHub: [@yourgithub](https://github.com/yourgithub)
+- GitHub: [https://github.com/ikebuaso]
 - Blog (Coming Soon): Real-world writeups & dev stories
 
 ---
