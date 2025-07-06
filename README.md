@@ -10,11 +10,7 @@ Hey there! I'm Jesse Black – a passionate **Web Developer** with a growing int
 - HTML, CSS, JavaScript
 - React.js, Tailwind CSS
 - Responsive Design, Accessibility (WCAG)
-
-### 🧠 Backend
-- Node.js, Express.js
-- Python (Flask / FastAPI)
-- RESTful APIs, MongoDB
+- Figma
 
 ### 🔐 Pentesting Tools
 - Burp Suite
