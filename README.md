@@ -56,7 +56,7 @@ Hey there! I'm Jesse Black – a passionate **Web Developer** with a growing int
 ## 📬 Let's Connect!
 
 - Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- LinkedIn: [linkedin.com/in/jesseblack](https://linkedin.com/in/jesseblack)
+- LinkedIn: www.linkedin.com/in/ikebuaso-jesse-8a99b0289
 - GitHub: [https://github.com/ikebuaso]
 - Blog (Coming Soon): Real-world writeups & dev stories
 
