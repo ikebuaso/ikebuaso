@@ -1,18 +1,18 @@
-# 👨‍💻 Jesse Black – Web Developer & Pentester
+#  Jesse Black – Web Developer & Pentester
 
 Hey there! I'm Jesse Black – a passionate **Web Developer** with a growing interest in **Cybersecurity & Ethical Hacking**. I love building sleek, responsive websites and diving into the world of penetration testing to better understand and secure the web.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Frontend
+### Frontend
 - HTML, CSS, JavaScript
 - React.js, Tailwind CSS
 - Responsive Design, Accessibility (WCAG)
 - Figma
 
-### 🔐 Pentesting Tools
+###  Pentesting Tools
 - Burp Suite
 - Nmap
 - Wireshark
@@ -21,30 +21,31 @@ Hey there! I'm Jesse Black – a passionate **Web Developer** with a growing int
 
 ---
 
-## 📁 Projects
+##  Projects
 
-### 🌐 Web Development
+###  Web Development
 - **Portfolio Site** – A sleek, mobile-first site showcasing my work (React + Tailwind).
 - **Betslip Converter** – For converting bets code for another platform (React + Tailwind).
 - **Weather Dashboard** – Consumes external API to show real-time weather data.
 
-### 🛡️ Cybersecurity / Pentesting Practice
+###  Cybersecurity / Pentesting Practice
 - **VulnHub & TryHackMe Boxes** – Walkthroughs and notes [coming soon!]
 - **Basic Recon Script (Python)** – Automates target info gathering (whois, nslookup, nmap).
 - **Web App Security Lab** – My playground for testing OWASP Top 10 vulnerabilities.
 
 ---
 
-## 📚 Learning
+##  Learning
 
 - Web App Penetration Testing (OWASP Top 10)
 - Ethical Hacking (via TryHackMe & Hack The Box)
 - Advanced JavaScript Patterns
 - Secure Coding Best Practices
+- Cloud and Devops
 
 ---
 
-## 🧩 Goals for 2025
+##  Goals for 2025
 
 - Build & deploy a secure web app from scratch
 - Earn **CompTIA Security+** or **eJPT** certification
@@ -53,13 +54,12 @@ Hey there! I'm Jesse Black – a passionate **Web Developer** with a growing int
 
 ---
 
-## 📬 Let's Connect!
+##  Let's Connect!
 
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- LinkedIn: www.linkedin.com/in/ikebuaso-jesse-8a99b0289
+- Portfolio: https://ikebuaso.vercel.app/
 - GitHub: [https://github.com/ikebuaso]
 - Blog (Coming Soon): Real-world writeups & dev stories
 
 ---
 
-_Always building, always breaking (ethically)._ 🔓✨
+_Always building, always breaking (ethically)._ 
