@@ -1,6 +1,6 @@
 #  Jesse Black – Web Developer & Pentester
 
-Hey there! I'm Jesse Black – a passionate **Web Developer** with a growing interest in **Cybersecurity & Ethical Hacking**. I love building sleek, responsive websites and diving into the world of penetration testing to better understand and secure the web.
+Hey there! I'm Jesse Black – a passionate **Web Developer** and a  **Cybersecurity & Ethical Hacker**. I love building sleek, responsive websites and diving into the world of penetration testing to better understand and secure the web.
 
 ---
 
@@ -12,13 +12,6 @@ Hey there! I'm Jesse Black – a passionate **Web Developer** with a growing int
 - Responsive Design, Accessibility (WCAG)
 - Figma
 
-###  Pentesting Tools
-- Burp Suite
-- Nmap
-- Wireshark
-- OWASP ZAP
-- Linux (Kali), Metasploit (Exploring)
-
 ---
 
 ##  Projects
@@ -27,21 +20,6 @@ Hey there! I'm Jesse Black – a passionate **Web Developer** with a growing int
 - **Portfolio Site** – A sleek, mobile-first site showcasing my work (React + Tailwind).
 - **Betslip Converter** – For converting bets code for another platform (React + Tailwind).
 - **Weather Dashboard** – Consumes external API to show real-time weather data.
-
-###  Cybersecurity / Pentesting Practice
-- **VulnHub & TryHackMe Boxes** – Walkthroughs and notes [coming soon!]
-- **Basic Recon Script (Python)** – Automates target info gathering (whois, nslookup, nmap).
-- **Web App Security Lab** – My playground for testing OWASP Top 10 vulnerabilities.
-
----
-
-##  Learning
-
-- Web App Penetration Testing (OWASP Top 10)
-- Ethical Hacking (via TryHackMe & Hack The Box)
-- Advanced JavaScript Patterns
-- Secure Coding Best Practices
-- Cloud and Devops
 
 ---
 
