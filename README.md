@@ -23,11 +23,9 @@ Hey there! I'm Jesse Black – a passionate **Web Developer** and a  **Cybersecu
 
 ---
 
-##  Goals for 2025
-
-- Build & deploy a secure web app from scratch
+##  Goals for 2026
 - Earn **CompTIA Security+** or **eJPT** certification
-- Contribute to open-source pentesting tools
+- Contributing to open-source pentesting tools
 - Learn Rust or Go for low-level web tooling
 
 ---
